@@ -96,7 +96,9 @@ Step 14: Install 'oh-my-posh'
 ```
 #
 Step 15: Invoke 'oh-my-posh' on the config file
+```
 > oh-my-posh.exe init pwsh | Invoke-Expression
+```
 #
 Step 16: Install Terminal Icons
 ```
