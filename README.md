@@ -127,3 +127,8 @@ Step 20: Install touch
 ```
 npm install touch-cli -g
 ```
+#
+Step 21: Install sudo
+```
+choco install -y sudo
+```
