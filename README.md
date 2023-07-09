@@ -130,5 +130,10 @@ npm install touch-cli -g
 #
 Step 21: Install sudo
 ```
+npm install --global yarn
+```
+#
+Step 22: Install yarn
+```
 choco install -y sudo
 ```
