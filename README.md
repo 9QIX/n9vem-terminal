@@ -135,6 +135,7 @@ Install-Module -Name z -Force
 ```PowerShell
 Install-Module -Name PowerShellGet -Force
 Install-Module PSReadLine -AllowPrerelease -Force
+Install-Module -Name PSReadline -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
 ```
 
 ## Step 19: Install Fzf
