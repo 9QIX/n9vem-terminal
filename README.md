@@ -120,7 +120,8 @@ oh-my-posh.exe init pwsh | Invoke-Expression
 ## Step 16: Install Terminal Icons
 
 ```PowerShell
-choco install terminal-icons.powershell
+scoop bucket add extras
+scoop install terminal-icons
 ```
 
 ## Step 17: Install z - directory jumper
